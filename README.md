@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src = "https://cursosparaaprenderaprogramar.com/wp-content/uploads/2021/04/phpCode.png"  style="width: 1200px; height: 228px; object-fit: cover;">
+=======
+<img style ="object-fit: cover," src = "https://vergara240.udp.cl/cms/wp-content/uploads/2020/02/Destacada-curator%C3%ADa-html.png">
+>>>>>>> db6fea6d622e6de872e34f610ad86c15236e4b98
 
 
 - 👋 Hi, I’m @bettymariaramirez
