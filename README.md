@@ -1,4 +1,4 @@
-<img style ="wiidth 1200px: height:328px;object-fit: cover," src = "https://cursosparaaprenderaprogramar.com/wp-content/uploads/2021/04/phpCode.png">
+<img src = "https://cursosparaaprenderaprogramar.com/wp-content/uploads/2021/04/phpCode.png"  style="width: 1200px; height: 228px; object-fit: cover;">
 
 
 - 👋 Hi, I’m @bettymariaramirez
